@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @M-hassan-ch
-- 👀 I’m interested in application development.
-- 🌱 I’m currently a student of software engineering.
+- 👀 I’m interested in blockchain development.
+- 🌱 I’m currently a final year student of software engineering.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 You can reach me at hassanch5209@gmail.com.
 
