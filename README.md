@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @M-hassan-ch
 - 👀 I’m interested in blockchain development.
-- 🌱 I’m a final year student of software engineering.
-- 💞️ I’m looking to collaborate on projects.
+- 🌱 I have completed my graduation in software engineering.
+- 💞️ I’m looking to collaborate on blockchain related projects.
 - 📫 You can reach me at hassanch5209@gmail.com.
 
 <!---
